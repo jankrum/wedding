@@ -30,7 +30,7 @@ body {
 
 #navigationBar a {
     font-size: 1em;
-    padding: 0.25em 0.75em;
+    padding: 0.05em 0.75em;
     color: #eee2d3;
     text-decoration: none;
     border-radius: 0.5em;
@@ -51,5 +51,5 @@ body {
 }
 
 img {
-    height: 600px;
+    width: 75%;
 }
